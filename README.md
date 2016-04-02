@@ -18,6 +18,7 @@ Run:
 If you want to build the files: `npm run build`
 
 If you want to start and server and edit files, while viewing the change:
+
 1. `npm run start`
 2. navigate to `localhost:8080/webpack-dev-server/bundle` to view changes to your files as you make them (hot loading)
 
