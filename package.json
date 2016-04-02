@@ -1,13 +1,17 @@
 {
-  "name": "webpack-boilerplate",
-  "version": "0.0.0",
-  "description": "An webpack-es6 boilerplate for n00bs",
+  "name": "artisanal-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "An artisanal webpack + es6 + sass boilerplate",
   "main": "bundle.js",
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server -d"
   },
   "author": "Amy Cheng",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amycheng/artisanal-webpack-boilerplate.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.7.4",
